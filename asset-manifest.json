@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/elelmezesi-terv/static/css/main.e9b977cf.chunk.css",
+    "main.js": "/elelmezesi-terv/static/js/main.dddf95b7.chunk.js",
+    "main.js.map": "/elelmezesi-terv/static/js/main.dddf95b7.chunk.js.map",
+    "runtime-main.js": "/elelmezesi-terv/static/js/runtime-main.567b81b0.js",
+    "runtime-main.js.map": "/elelmezesi-terv/static/js/runtime-main.567b81b0.js.map",
+    "static/css/2.de424728.chunk.css": "/elelmezesi-terv/static/css/2.de424728.chunk.css",
+    "static/js/2.c0de60ca.chunk.js": "/elelmezesi-terv/static/js/2.c0de60ca.chunk.js",
+    "static/js/2.c0de60ca.chunk.js.map": "/elelmezesi-terv/static/js/2.c0de60ca.chunk.js.map",
+    "index.html": "/elelmezesi-terv/index.html",
+    "precache-manifest.9305650de8bb0d988fea09e18c85941a.js": "/elelmezesi-terv/precache-manifest.9305650de8bb0d988fea09e18c85941a.js",
+    "service-worker.js": "/elelmezesi-terv/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/elelmezesi-terv/static/css/2.de424728.chunk.css.map",
+    "static/css/main.e9b977cf.chunk.css.map": "/elelmezesi-terv/static/css/main.e9b977cf.chunk.css.map",
+    "static/js/2.c0de60ca.chunk.js.LICENSE.txt": "/elelmezesi-terv/static/js/2.c0de60ca.chunk.js.LICENSE.txt",
+    "static/media/footer_nyakkendő.svg": "/elelmezesi-terv/static/media/footer_nyakkendő.36606a99.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567b81b0.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.c0de60ca.chunk.js",
+    "static/css/main.e9b977cf.chunk.css",
+    "static/js/main.dddf95b7.chunk.js"
+  ]
+}
