@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2cfe12187333527e610475c95b2623bd",
+    "revision": "bb867a4024edcf992b257df685899a5c",
     "url": "/elelmezesi-terv/index.html"
   },
   {
