@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/elelmezesi-terv/static/css/main.e9b977cf.chunk.css",
-    "main.js": "/elelmezesi-terv/static/js/main.dddf95b7.chunk.js",
-    "main.js.map": "/elelmezesi-terv/static/js/main.dddf95b7.chunk.js.map",
+    "main.js": "/elelmezesi-terv/static/js/main.b4b59c61.chunk.js",
+    "main.js.map": "/elelmezesi-terv/static/js/main.b4b59c61.chunk.js.map",
     "runtime-main.js": "/elelmezesi-terv/static/js/runtime-main.567b81b0.js",
     "runtime-main.js.map": "/elelmezesi-terv/static/js/runtime-main.567b81b0.js.map",
     "static/css/2.de424728.chunk.css": "/elelmezesi-terv/static/css/2.de424728.chunk.css",
     "static/js/2.c0de60ca.chunk.js": "/elelmezesi-terv/static/js/2.c0de60ca.chunk.js",
     "static/js/2.c0de60ca.chunk.js.map": "/elelmezesi-terv/static/js/2.c0de60ca.chunk.js.map",
     "index.html": "/elelmezesi-terv/index.html",
-    "precache-manifest.22fd817d81e6fd9a97d783372d69b1b6.js": "/elelmezesi-terv/precache-manifest.22fd817d81e6fd9a97d783372d69b1b6.js",
+    "precache-manifest.b40f8c08528eb92c3fd2163211bcfde0.js": "/elelmezesi-terv/precache-manifest.b40f8c08528eb92c3fd2163211bcfde0.js",
     "service-worker.js": "/elelmezesi-terv/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/elelmezesi-terv/static/css/2.de424728.chunk.css.map",
     "static/css/main.e9b977cf.chunk.css.map": "/elelmezesi-terv/static/css/main.e9b977cf.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.de424728.chunk.css",
     "static/js/2.c0de60ca.chunk.js",
     "static/css/main.e9b977cf.chunk.css",
-    "static/js/main.dddf95b7.chunk.js"
+    "static/js/main.b4b59c61.chunk.js"
   ]
 }

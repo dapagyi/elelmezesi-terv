@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bb867a4024edcf992b257df685899a5c",
+    "revision": "70ddbfdffe8baa3645dbd8810a174f3c",
     "url": "/elelmezesi-terv/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elelmezesi-terv/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "067bd7fe6a7b31c15bcf",
+    "revision": "175426fb2dbac9a46513",
     "url": "/elelmezesi-terv/static/css/main.e9b977cf.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elelmezesi-terv/static/js/2.c0de60ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "067bd7fe6a7b31c15bcf",
-    "url": "/elelmezesi-terv/static/js/main.dddf95b7.chunk.js"
+    "revision": "175426fb2dbac9a46513",
+    "url": "/elelmezesi-terv/static/js/main.b4b59c61.chunk.js"
   },
   {
     "revision": "d44254a3f257e15a0123",
